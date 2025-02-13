@@ -1,0 +1,7 @@
+Pocitos,10
+Libertad,15
+Tala,20
+Nueva Helvecia,5
+Young,30
+Casupa,25
+Punta del este,15

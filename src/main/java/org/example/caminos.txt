@@ -1,0 +1,18 @@
+Pocitos,Libertad,50,soleado
+Pocitos,Tala,80,lluvioso
+Pocitos,Punta del este,75,soleado
+Libertad,Nueva Helvecia,70,niebla
+Libertad,Tala,90,lluvioso
+Libertad,Pocitos,80,lluvioso
+Tala,Pocitos,80,niebla
+Tala,Casupa,30,lluvioso
+Tala,Punta del este,65,soleado
+Tala,Libertad,90,lluvioso
+Casupa,Tala,30,lluvioso
+Casupa,Punta del este,50,soleado
+Punta del este,Pocitos,75,soleado
+Punta del este,Tala,65,soleado
+Punta del este,Casupa,50,soleado
+Nueva Helvecia,Libertad,70,niebla
+Nueva Helvecia,Young,100,soleado
+Young,Nueva Helvecia,100,soleado
